@@ -1,8 +1,8 @@
 {
   "name": "com.worldreaver.systemnumericsvectors",
   "displayName": "SystemNumericsVectors",
-  "description": "",
-  "version": "1.0.0",
+  "description": "Provides hardware-accelerated numeric types, suitable for high-performance processing and graphics applications.",
+  "version": "4.5.0",
   "unity": "2018.3",
   "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
   "license": "MIT",
